@@ -1,2 +1,3 @@
 Emulador de un programa
-modificacion para primer commit 
+modificacion para primer commit
+documento ya en repositorio, modificacion 
