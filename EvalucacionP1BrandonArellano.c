@@ -6,16 +6,16 @@ pertenece a los enteros positivos y es ingresado por el usuario.*/
 #include<stdio.h>
 
 //abrir la funcion main
-int main(int argc, char const *argv[])
+int main()
 {
     //inicializacion de las variables
     int numeroTerminos, a = 0, b = 1, suma = 0, iterador, pivote;
 
     //usamos la funcion printf para mostrar en pantalla el mensaje
-    printf("Ingrese el numero de terminos ah ingresar");
+    printf("Ingrese el numero de terminos ah ingresar: ");
 
     //leemos lo que ingresa por teclado el usuario con la funcion scanf
-    scanf("%d", numeroTerminos);
+    scanf("%d", &numeroTerminos);
 
     //utilizamos un for para la suma de la cantidad de terminos
     for(iterador = 1; iterador < numeroTerminos; iterador++) {
