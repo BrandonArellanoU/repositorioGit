@@ -1,3 +1,1 @@
-Emulador de un programa
-modificacion para primer commit
-documento ya en repositorio, modificacion 
+documento ya en repositorio
