@@ -1,2 +1,3 @@
-documento ya en repositorio,
-version 4 
+/*Construya un programa para generar los numeroTerminos primeros términos de la serie de Fibonacci (desde el valor 0) y su respectiva suma, donde numeroTerminos, 
+pertenece a los enteros positivos y es ingresado por el usuario.*/
+/*Por Brandon Arellano estudiante de la carrera de Ingenieria de Software*/
